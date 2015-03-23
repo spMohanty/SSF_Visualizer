@@ -2,7 +2,7 @@
 This is a simple web-app written in flask which can be used to visualize a SSF File.
 
 # Dependency
-This project is built on ```Python```, and can very easily be setup using ```virtualenv```. Installation instruction for ```virtualenv``` can be found at : ```https://virtualenv.pypa.io/en/latest/installation.html```    
+This project is built on ```Python```, and can very easily be setup using ```virtualenv```. Installation instruction for ```virtualenv``` can be found [here]( https://virtualenv.pypa.io/en/latest/installation.html)
 
 # Installation    
 ```
